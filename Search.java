@@ -1,0 +1,20 @@
+import java.util.*;
+public class Search {
+    public static void main(String[] args) {
+        Scanner sc= new Scanner(System.in);
+        int n=sc.nextInt();
+        int a[]=new int[n];
+        int i=0;
+        for(i=0;i<n;i++){
+            a[i]=sc.nextInt();
+        }
+        System.out.println("Enter the number to be searched");
+        int x=sc.nextInt();
+        for(i=0;i<n;i++){
+            if(x==a[i]){
+            System.out.println(x+" occurs at index "+i);
+            break;
+        }
+    }
+    }
+}
