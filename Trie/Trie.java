@@ -1,6 +1,6 @@
 package Trie;
 
-public class Insert {
+public class Trie {
     static class Node{
         Node Children[]=new Node[26];
         boolean EndOfWord=false;
