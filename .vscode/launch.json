@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StartsWith",
+            "request": "launch",
+            "mainClass": "Trie.StartsWith",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Prefix",
+            "request": "launch",
+            "mainClass": "Trie.Prefix",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Word_Break",
+            "request": "launch",
+            "mainClass": "Trie.Word_Break",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Insert",
+            "request": "launch",
+            "mainClass": "Trie.Insert",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Bottom_View",
+            "request": "launch",
+            "mainClass": "Hashmap.Bottom_View",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Sort_By_Frequency",
+            "request": "launch",
+            "mainClass": "Hashmap.Sort_By_Frequency",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Subarray_Sum_Equal_K",
+            "request": "launch",
+            "mainClass": "Hashmap.Subarray_Sum_Equal_K",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Largest_Subarray_SumZero",
             "request": "launch",
             "mainClass": "Hashmap.Largest_Subarray_SumZero",

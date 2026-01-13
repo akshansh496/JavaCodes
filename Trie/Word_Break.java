@@ -1,6 +1,6 @@
 package Trie;
 
-public class Trie {
+public class Word_Break {
     static class Node{
         Node Children[]=new Node[26];
         boolean EndOfWord=false;
@@ -34,18 +34,27 @@ public class Trie {
         }
         return curr.EndOfWord==true;
     }
-        
+
+    public static boolean word(String key){
+        if(key.length() == 0) return true;
+
+        for(int i=1; i<=key.length(); i++){
+            String first = key.substring(0, i);
+            String second = key.substring(i);
+
+            if(search(first) && word(second)){
+                return true;
+            }
+        }
+        return false;
+    }
     public static void main(String[] args) {
-        String words[]={"the","a","there","their","any","thee"};
+        String words[]={"i","like","sam","samsung","mobile","ice"};
         for(String word: words){
             insert(word);
         }
-        System.out.println(search("the"));   // true
-        System.out.println(search("there")); // true
-        System.out.println(search("their")); // true
-        System.out.println(search("any"));   // true
-        System.out.println(search("an"));    // false
-        System.out.println(search("thor"));  // false
-
+        String key="ilikesamsung";
+        System.out.println(word(key));
+        
     }
 }
