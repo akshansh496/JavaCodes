@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Longest_Word_With_All_Prefixes",
+            "request": "launch",
+            "mainClass": "Trie.Longest_Word_With_All_Prefixes",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Count_Unique_Substrings",
+            "request": "launch",
+            "mainClass": "Trie.Count_Unique_Substrings",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "StartsWith",
             "request": "launch",
             "mainClass": "Trie.StartsWith",
