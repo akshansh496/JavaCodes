@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Topological_Sorting_BFS",
+            "request": "launch",
+            "mainClass": "Graph.Topological_Sorting_BFS",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Topological_Sorting_DFS",
+            "request": "launch",
+            "mainClass": "Graph.Topological_Sorting_DFS",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Topological_Sorting",
+            "request": "launch",
+            "mainClass": "Graph.Topological_Sorting",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Cycle_Detection_DIrected",
+            "request": "launch",
+            "mainClass": "Graph.Cycle_Detection_DIrected",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "BiPartite_graph",
+            "request": "launch",
+            "mainClass": "Graph.BiPartite_graph",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Cycle_Detection",
+            "request": "launch",
+            "mainClass": "Graph.Cycle_Detection",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Connected_Components",
+            "request": "launch",
+            "mainClass": "Graph.Connected_Components",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "HasPath",
             "request": "launch",
             "mainClass": "Graph.HasPath",
