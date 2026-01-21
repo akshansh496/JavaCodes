@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AllPaths",
+            "request": "launch",
+            "mainClass": "Graph.AllPaths",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Topological_Sorting_BFS",
             "request": "launch",
             "mainClass": "Graph.Topological_Sorting_BFS",
