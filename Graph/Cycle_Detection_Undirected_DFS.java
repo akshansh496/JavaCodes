@@ -1,7 +1,7 @@
 package Graph;
 import java.util.*;
 
-public class Cycle_Detection_Undirected {
+public class Cycle_Detection_Undirected_DFS {
     
     static class Edge{
         int src;

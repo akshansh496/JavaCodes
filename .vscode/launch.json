@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BellMan_Ford_Algo",
+            "request": "launch",
+            "mainClass": "Graph.BellMan_Ford_Algo",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Diijkstra_Algorithim",
+            "request": "launch",
+            "mainClass": "Graph.Diijkstra_Algorithim",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "AllPaths",
             "request": "launch",
             "mainClass": "Graph.AllPaths",
