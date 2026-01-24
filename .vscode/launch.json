@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cheapest_Flight_wtih_atmost_K_stops",
+            "request": "launch",
+            "mainClass": "Graph.Cheapest_Flight_wtih_atmost_K_stops",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Prim_Algo",
+            "request": "launch",
+            "mainClass": "Graph.Prim_Algo",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Prim",
+            "request": "launch",
+            "mainClass": "Graph.Prim",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "BellMan_Ford_Algo",
             "request": "launch",
             "mainClass": "Graph.BellMan_Ford_Algo",
