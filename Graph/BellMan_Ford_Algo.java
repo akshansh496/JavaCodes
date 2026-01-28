@@ -1,7 +1,7 @@
 package Graph;
 
 import java.util.ArrayList;
-
+//Bellman–Ford Algorithm is used to find the shortest paths from a single source vertex to all other vertices in a graph.
 // this doesn't work for -ve weighted cycle(total weight of a cycle will always be +ve)
 public class BellMan_Ford_Algo {
     static class Edge{

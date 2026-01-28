@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Kruskal_Algo",
+            "request": "launch",
+            "mainClass": "Graph.Kruskal_Algo",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Disjoint_Set",
+            "request": "launch",
+            "mainClass": "Graph.Disjoint_Set",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Connecting_Cities_With_minimum_cost",
+            "request": "launch",
+            "mainClass": "Graph.Connecting_Cities_With_minimum_cost",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Cheapest_Flight_wtih_atmost_K_stops",
             "request": "launch",
             "mainClass": "Graph.Cheapest_Flight_wtih_atmost_K_stops",
