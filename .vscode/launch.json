@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Mother_vertex",
+            "request": "launch",
+            "mainClass": "Graph.Mother_vertex",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Kruskal_Algo",
             "request": "launch",
             "mainClass": "Graph.Kruskal_Algo",
