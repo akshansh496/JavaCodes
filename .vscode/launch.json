@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Kosaraju_Algo",
+            "request": "launch",
+            "mainClass": "Graph.Kosaraju_Algo",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "SetTwo_PracticeQ4",
+            "request": "launch",
+            "mainClass": "Graph.SetTwo_PracticeQ4",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Mother_vertex",
             "request": "launch",
             "mainClass": "Graph.Mother_vertex",

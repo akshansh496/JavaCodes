@@ -25,7 +25,7 @@ public class Mother_vertex {
         ArrayList<Edge> graph[]=new ArrayList[5];
         createGraph(graph);
         for(int i=0;i<5;i++){
-            boolean vis[]=new boolean[5];
+            boolean vis[]=new boolean[graph.length];
             helper(graph,i,vis);
             boolean isMother = true;
 
