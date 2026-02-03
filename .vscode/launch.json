@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Climbing_Stairs",
+            "request": "launch",
+            "mainClass": "DP.Climbing_Stairs",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "DP.Fibonacci",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Kosaraju_Algo",
             "request": "launch",
             "mainClass": "Graph.Kosaraju_Algo",
