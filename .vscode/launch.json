@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Target_Sum_Subset",
+            "request": "launch",
+            "mainClass": "DP.Target_Sum_Subset",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Zero_One_Knapsack",
+            "request": "launch",
+            "mainClass": "DP.Zero_One_Knapsack",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Climbing_Stairs",
             "request": "launch",
             "mainClass": "DP.Climbing_Stairs",
