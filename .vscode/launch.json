@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Unbounded_knapsack",
+            "request": "launch",
+            "mainClass": "DP.Unbounded_knapsack",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Target_Sum_Subset",
             "request": "launch",
             "mainClass": "DP.Target_Sum_Subset",
