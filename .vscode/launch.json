@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Rod_Cutting",
+            "request": "launch",
+            "mainClass": "DP.Rod_Cutting",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Coin_Chnage",
+            "request": "launch",
+            "mainClass": "DP.Coin_Chnage",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Unbounded_knapsack",
             "request": "launch",
             "mainClass": "DP.Unbounded_knapsack",
