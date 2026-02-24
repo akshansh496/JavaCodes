@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Longest_Common_Substring",
+            "request": "launch",
+            "mainClass": "DP.Longest_Common_Substring",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Common_Subsequence",
+            "request": "launch",
+            "mainClass": "DP.Longest_Common_Subsequence",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Rod_Cutting",
             "request": "launch",
             "mainClass": "DP.Rod_Cutting",
