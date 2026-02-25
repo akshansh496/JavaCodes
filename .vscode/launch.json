@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Catalan_Number",
+            "request": "launch",
+            "mainClass": "DP.Catalan_Number",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Wildcard_Matching",
+            "request": "launch",
+            "mainClass": "DP.Wildcard_Matching",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "String_Conversion",
+            "request": "launch",
+            "mainClass": "DP.String_Conversion",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Edit_Distance",
+            "request": "launch",
+            "mainClass": "DP.Edit_Distance",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Incresing_Subsequence",
+            "request": "launch",
+            "mainClass": "DP.Longest_Incresing_Subsequence",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Longest_Common_Substring",
             "request": "launch",
             "mainClass": "DP.Longest_Common_Substring",
