@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Minimum_Array_Jumps",
+            "request": "launch",
+            "mainClass": "DP.Minimum_Array_Jumps",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Partioning",
+            "request": "launch",
+            "mainClass": "DP.Minimum_Partioning",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Matrix_Chain_Multiplication",
+            "request": "launch",
+            "mainClass": "DP.Matrix_Chain_Multiplication",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Count_BST",
+            "request": "launch",
+            "mainClass": "DP.Count_BST",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Catalan_Number",
             "request": "launch",
             "mainClass": "DP.Catalan_Number",
