@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Parkour_Design",
+            "request": "launch",
+            "mainClass": "CodeForces.Parkour_Design",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Tribonacci_Numbers",
+            "request": "launch",
+            "mainClass": "DP.Tribonacci_Numbers",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Minimum_Array_Jumps",
             "request": "launch",
             "mainClass": "DP.Minimum_Array_Jumps",
