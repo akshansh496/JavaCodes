@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LuckyDivision_122A",
+            "request": "launch",
+            "mainClass": "LuckyDivision_122A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Chat_Room_58A",
+            "request": "launch",
+            "mainClass": "Chat_Room_58A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Football_96A",
+            "request": "launch",
+            "mainClass": "Football_96A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Young_Physicist_69A",
+            "request": "launch",
+            "mainClass": "Young_Physicist_69A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "String_Task_118A",
+            "request": "launch",
+            "mainClass": "String_Task_118A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Game_2199A",
+            "request": "launch",
+            "mainClass": "CodeForces.Game_2199A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Helpful_Maths_339A",
+            "request": "launch",
+            "mainClass": "CodeForces.Helpful_Maths_339A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Boy_Or_Girl_236A",
+            "request": "launch",
+            "mainClass": "CodeForces.Boy_Or_Girl_236A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Petya_And_Strings_112A",
+            "request": "launch",
+            "mainClass": "CodeForces.Petya_And_Strings_112A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Beautiful_Matrix_263A",
+            "request": "launch",
+            "mainClass": "CodeForces.Beautiful_Matrix_263A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Domino_Piling_50A",
+            "request": "launch",
+            "mainClass": "CodeForces.Domino_Piling_50A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Next_Round_158A",
+            "request": "launch",
+            "mainClass": "CodeForces.Next_Round_158A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Threatre_Square_1A",
+            "request": "launch",
+            "mainClass": "CodeForces.Threatre_Square_1A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Team_231",
+            "request": "launch",
+            "mainClass": "CodeForces.Team_231",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Triangle_120",
+            "request": "launch",
+            "mainClass": "DP.Triangle_120",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Parkour_Design",
             "request": "launch",
             "mainClass": "CodeForces.Parkour_Design",
