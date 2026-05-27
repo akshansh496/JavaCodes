@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Count_the_Number_of_Special_Characters_II",
+            "request": "launch",
+            "mainClass": "Leetcode.Count_the_Number_of_Special_Characters_II",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "LuckyDivision_122A",
             "request": "launch",
             "mainClass": "LuckyDivision_122A",

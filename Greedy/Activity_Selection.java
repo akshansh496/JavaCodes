@@ -49,7 +49,7 @@ public class Activity_Selection {
             Activities[i][2]=end[i]; //3rd col stores end time
         }
 
-        // lambda function
+        // lambda function 
         Arrays.sort(Activities,Comparator.comparingDouble(o -> o[2]));//sorts the 2d array on the basis of end time
 
         int maxAct=0;
