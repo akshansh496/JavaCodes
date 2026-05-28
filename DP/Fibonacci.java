@@ -20,10 +20,22 @@ public class Fibonacci {
         }
         return dp[n];
     }
+    //Space-optimisation
+    public static int space_optimisation(int n){
+        int prev2=0;
+        int prev=1;
+        for(int i=2;i<=n;i++){
+            int curr=prev+prev2;
+            prev2=prev;
+            prev=curr;
+        }
+        return prev;
+    }
     public static void main(String[] args) {
         int n=5;
         int f[]=new int[n+1];
-        // System.out.println(fib(n,f));
+        System.out.println(fib(n,f));
         System.out.println(fibtabulation(n));
+        System.out.println(space_optimisation(n));
     }
 }

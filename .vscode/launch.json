@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bear_And_Big_Brother_791A",
+            "request": "launch",
+            "mainClass": "Bear_And_Big_Brother_791A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Word_Capitalisation_281_A",
+            "request": "launch",
+            "mainClass": "Word_Capitalisation_281_A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Climbing_Stairs_two",
+            "request": "launch",
+            "mainClass": "Leetcode.Climbing_Stairs_two",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Count_the_Number_of_Special_Characters_II",
             "request": "launch",
             "mainClass": "Leetcode.Count_the_Number_of_Special_Characters_II",

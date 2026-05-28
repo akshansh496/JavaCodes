@@ -19,10 +19,22 @@ public class Climbing_Stairs {
         }
         return ways[n];
     }
+    //space optimisation
+    public static int space_optimisation(int n){
+        int prev2=1;
+        int prev=1;
+        for(int i=2;i<=n;i++){
+            int curr=prev2+prev;
+            prev2=prev;
+            prev=curr;
+        }
+        return prev;
+    }
     public static void main(String[] args) {
         int n=5;
         int ways[]=new int[n+1];
-        // System.out.println(waysToclimb(n,ways));
+        System.out.println(waysToclimb(n,ways));
         System.out.println(waysToclimbTabular(n));
+        System.out.println(space_optimisation(n));
     }
 }
