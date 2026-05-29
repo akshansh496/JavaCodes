@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Frog_jump",
+            "request": "launch",
+            "mainClass": "Leetcode.Frog_jump",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Spyke_Talks_291A",
+            "request": "launch",
+            "mainClass": "Spyke_Talks_291A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Football_1773F",
+            "request": "launch",
+            "mainClass": "Football_1773F",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Bear_And_Big_Brother_791A",
             "request": "launch",
             "mainClass": "Bear_And_Big_Brother_791A",
