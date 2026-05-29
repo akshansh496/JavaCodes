@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Minimum_CCost_Climbing_Stairs",
+            "request": "launch",
+            "mainClass": "Leetcode.Minimum_CCost_Climbing_Stairs",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Frog_jump",
             "request": "launch",
             "mainClass": "Leetcode.Frog_jump",
