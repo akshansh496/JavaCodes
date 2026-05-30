@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Range_Sum_Query_2D",
+            "request": "launch",
+            "mainClass": "Leetcode.Range_Sum_Query_2D",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "AddBinary",
+            "request": "launch",
+            "mainClass": "Leetcode.AddBinary",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Easting_Game_2200A",
+            "request": "launch",
+            "mainClass": "Easting_Game_2200A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Frog_jump_With_K_Steps",
+            "request": "launch",
+            "mainClass": "DP.Frog_jump_With_K_Steps",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Minimum_CCost_Climbing_Stairs",
             "request": "launch",
             "mainClass": "Leetcode.Minimum_CCost_Climbing_Stairs",
