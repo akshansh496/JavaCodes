@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "House_Robber",
+            "request": "launch",
+            "mainClass": "Leetcode.House_Robber",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Destroying_Asteroids",
+            "request": "launch",
+            "mainClass": "Leetcode.Destroying_Asteroids",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Range_Sum_Query_2D",
             "request": "launch",
             "mainClass": "Leetcode.Range_Sum_Query_2D",
