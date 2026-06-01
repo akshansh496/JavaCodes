@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "House_Robber_2",
+            "request": "launch",
+            "mainClass": "Leetcode.House_Robber_2",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Halloumi_Boxes_1903A",
+            "request": "launch",
+            "mainClass": "Halloumi_Boxes_1903A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Cost_Of_Buying_Candles_With_Discount",
+            "request": "launch",
+            "mainClass": "Leetcode.Minimum_Cost_Of_Buying_Candles_With_Discount",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "House_Robber",
             "request": "launch",
             "mainClass": "Leetcode.House_Robber",
