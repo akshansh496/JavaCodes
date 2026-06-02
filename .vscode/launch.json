@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ninja_Training",
+            "request": "launch",
+            "mainClass": "DP.Ninja_Training",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Solution_3633",
+            "request": "launch",
+            "mainClass": "Leetcode.Solution_3633",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Line_Trip_1901A",
+            "request": "launch",
+            "mainClass": "Line_Trip_1901A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "House_Robber_2",
             "request": "launch",
             "mainClass": "Leetcode.House_Robber_2",
