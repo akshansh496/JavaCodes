@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Unique_Paths",
+            "request": "launch",
+            "mainClass": "Leetcode.Unique_Paths",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Cover_In_Water_1900A",
+            "request": "launch",
+            "mainClass": "DP.Cover_In_Water_1900A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Ninja_Training",
             "request": "launch",
             "mainClass": "DP.Ninja_Training",
