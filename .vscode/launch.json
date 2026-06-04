@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Game_With_Integers_1899A",
+            "request": "launch",
+            "mainClass": "Game_With_Integers_1899A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Unique_Paths_Two",
+            "request": "launch",
+            "mainClass": "Leetcode.Unique_Paths_Two",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Unique_Paths",
             "request": "launch",
             "mainClass": "Leetcode.Unique_Paths",
