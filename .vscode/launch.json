@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Jagged_Swaps_1896A",
+            "request": "launch",
+            "mainClass": "Jagged_Swaps_1896A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Path_Sum",
+            "request": "launch",
+            "mainClass": "Leetcode.Minimum_Path_Sum",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Game_With_Integers_1899A",
             "request": "launch",
             "mainClass": "Game_With_Integers_1899A",
