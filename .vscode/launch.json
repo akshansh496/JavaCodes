@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Minimum_Falling_Path_Sum",
+            "request": "launch",
+            "mainClass": "Leetcode.Minimum_Falling_Path_Sum",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Doremys_Paint_3_1890A",
+            "request": "launch",
+            "mainClass": "Doremys_Paint_3_1890A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Jagged_Swaps_1896A",
             "request": "launch",
             "mainClass": "Jagged_Swaps_1896A",
