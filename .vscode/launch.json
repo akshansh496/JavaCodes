@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Dont_Try_To_Count_1881A",
+            "request": "launch",
+            "mainClass": "Dont_Try_To_Count_1881A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Min_Product_Of_Three_Numbers",
+            "request": "launch",
+            "mainClass": "Leetcode.Min_Product_Of_Three_Numbers",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Minimum_Falling_Path_Sum",
             "request": "launch",
             "mainClass": "Leetcode.Minimum_Falling_Path_Sum",
