@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Find_Indices_With_Index_And_Value_Difference",
+            "request": "launch",
+            "mainClass": "Leetcode.Find_Indices_With_Index_And_Value_Difference",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Dont_Try_To_Count_1881A",
             "request": "launch",
             "mainClass": "Dont_Try_To_Count_1881A",

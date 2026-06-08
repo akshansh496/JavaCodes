@@ -2,6 +2,7 @@
 import java.util.Scanner;
 
 public class Dont_Try_To_Count_1881A {
+    
     public static void main(String[] args) {
         Scanner sc=new  Scanner(System.in);
         int testacase=sc.nextInt();
@@ -10,18 +11,18 @@ public class Dont_Try_To_Count_1881A {
             int m=sc.nextInt();
             String x=sc.next();
             String s=sc.next();
-            boolean flag=true;
             int count=0;
-            while(x.length()<=25){
+            int ans=-1;
+            while(count<=6){
                 if(x.contains(s)){
-                    System.out.println(count);
-                    flag=false;
+                    ans=count;
                     break;
                 }
                 x+=x;
                 count++;
             }
-            if(flag)    System.out.println(-1);
+            System.out.println(ans);
         }
     }
 }
+
