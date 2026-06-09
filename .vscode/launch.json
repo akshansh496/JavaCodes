@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Maximum_Total_Subarray_Value_One",
+            "request": "launch",
+            "mainClass": "Leetcode.Maximum_Total_Subarray_Value_One",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "How_Much_Does_Daytona_Cost_1878A",
+            "request": "launch",
+            "mainClass": "How_Much_Does_Daytona_Cost_1878A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Find_Indices_With_Index_And_Value_Difference",
             "request": "launch",
             "mainClass": "Leetcode.Find_Indices_With_Index_And_Value_Difference",
