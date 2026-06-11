@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Goals_Of_Victory_1877A",
+            "request": "launch",
+            "mainClass": "Goals_Of_Victory_1877A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "SubArray_Sum_Equals_K",
             "request": "launch",
             "mainClass": "Leetcode.SubArray_Sum_Equals_K",
