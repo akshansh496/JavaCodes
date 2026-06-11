@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Subset_Sum_Equals_K",
+            "request": "launch",
+            "mainClass": "DP.Subset_Sum_Equals_K",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Goals_Of_Victory_1877A",
             "request": "launch",
             "mainClass": "Goals_Of_Victory_1877A",
