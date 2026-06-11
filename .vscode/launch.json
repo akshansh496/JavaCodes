@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubArray_Sum_Equals_K",
+            "request": "launch",
+            "mainClass": "Leetcode.SubArray_Sum_Equals_K",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Maximum_Total_Subarray_Value_One",
             "request": "launch",
             "mainClass": "Leetcode.Maximum_Total_Subarray_Value_One",
