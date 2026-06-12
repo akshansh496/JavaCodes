@@ -1,7 +1,5 @@
 package DP;
-
 import java.util.*;
-
 public class Subset_Sum_Equals_K {
     public static int recursion(int nums[],int sum,int idx){
         if(sum==0)  return 1;

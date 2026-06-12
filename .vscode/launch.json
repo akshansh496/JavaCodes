@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Target_practice_1873",
+            "request": "launch",
+            "mainClass": "Target_practice_1873",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Subset_Sum_Equals_K",
             "request": "launch",
             "mainClass": "DP.Subset_Sum_Equals_K",
