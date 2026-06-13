@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Weighted_Word_Mapping",
+            "request": "launch",
+            "mainClass": "Leetcode.Weighted_Word_Mapping",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Ambitious_Kid_1866A",
+            "request": "launch",
+            "mainClass": "Ambitious_Kid_1866A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Target_practice_1873",
             "request": "launch",
             "mainClass": "Target_practice_1873",
