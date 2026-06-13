@@ -68,6 +68,26 @@ public class Zero_One_Knapsack {
         }
         return dp[n][W];
     }
+    //space-optmisation
+    public static int space_optmisation(int val[],int wt[],int W){
+        int n=val.length;
+        int dp[]=new int[W+1];
+        for(int i=wt[0];i<=W;i++){
+            dp[i]=val[0];
+        }
+        for(int i=1;i<n;i++){
+            for(int j=W;j>=0;j--){
+                int v=val[i];
+                int w=wt[i];
+                int excProfit=dp[j];
+                int incProfit=Integer.MIN_VALUE;
+                if(w<=j)    incProfit=v+dp[j-w];
+                dp[j]=Math.max(incProfit,excProfit);
+                
+            }
+        }
+        return dp[W];
+    }
 
     public static void main(String[] args) {
         int val[]={15,14,10,45,30};
@@ -80,5 +100,6 @@ public class Zero_One_Knapsack {
         System.out.println(knapsack(val,wt,W,val.length));
         System.out.println(knapsackMemoization(val,wt,W,val.length,memory));
         System.out.println(knapsackTab(val, wt, W));
+        System.out.println(space_optmisation(val, wt, W));
     }
 }
