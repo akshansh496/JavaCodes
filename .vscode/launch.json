@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Delete_Middle_Node_of_LinkedList",
+            "request": "launch",
+            "mainClass": "Leetcode.Delete_Middle_Node_of_LinkedList",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Weighted_Word_Mapping",
             "request": "launch",
             "mainClass": "Leetcode.Weighted_Word_Mapping",
