@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Target_Sum",
+            "request": "launch",
+            "mainClass": "Leetcode.Target_Sum",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Buttons_1858A",
             "request": "launch",
             "mainClass": "Buttons_1858A",
