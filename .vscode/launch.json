@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Buttons_1858A",
+            "request": "launch",
+            "mainClass": "Buttons_1858A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Process_String_With_Special_Operations_One",
+            "request": "launch",
+            "mainClass": "Leetcode.Process_String_With_Special_Operations_One",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Delete_Middle_Node_of_LinkedList",
             "request": "launch",
             "mainClass": "Leetcode.Delete_Middle_Node_of_LinkedList",
