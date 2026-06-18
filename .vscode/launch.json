@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Desorting_1853A",
+            "request": "launch",
+            "mainClass": "Desorting_1853A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Angle_bw_Hands_Of_Clock",
+            "request": "launch",
+            "mainClass": "Leetcode.Angle_bw_Hands_Of_Clock",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Array_Coloring_1857A",
+            "request": "launch",
+            "mainClass": "Array_Coloring_1857A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Target_Sum",
             "request": "launch",
             "mainClass": "Leetcode.Target_Sum",
