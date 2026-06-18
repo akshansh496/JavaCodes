@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Minimum_Cost_For_tickets",
+            "request": "launch",
+            "mainClass": "Leetcode.Minimum_Cost_For_tickets",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Desorting_1853A",
             "request": "launch",
             "mainClass": "Desorting_1853A",
