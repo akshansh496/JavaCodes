@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Rod_Cutting_Problem",
+            "request": "launch",
+            "mainClass": "DP.Rod_Cutting_Problem",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Find_The_Highest_Altitude",
+            "request": "launch",
+            "mainClass": "Leetcode.Find_The_Highest_Altitude",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Minimum_Cost_For_tickets",
             "request": "launch",
             "mainClass": "Leetcode.Minimum_Cost_For_tickets",
