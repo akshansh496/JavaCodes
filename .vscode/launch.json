@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Longest_Common_Subsequence",
+            "request": "launch",
+            "mainClass": "Leetcode.Longest_Common_Subsequence",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Generate_Parentheses",
             "request": "launch",
             "mainClass": "Leetcode.Generate_Parentheses",
