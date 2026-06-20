@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Generate_Parentheses",
+            "request": "launch",
+            "mainClass": "Leetcode.Generate_Parentheses",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "GrassHopper_On_A_Line_1837A",
             "request": "launch",
             "mainClass": "GrassHopper_On_A_Line_1837A",
