@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Maximum_Number_Of_Balloons",
+            "request": "launch",
+            "mainClass": "Leetcode.Maximum_Number_Of_Balloons",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Print_Longest_Common_Subsequence",
+            "request": "launch",
+            "mainClass": "DP.Print_Longest_Common_Subsequence",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Unit_Array_1834A",
+            "request": "launch",
+            "mainClass": "Unit_Array_1834A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Maximum_Ice_Cream_Bars",
+            "request": "launch",
+            "mainClass": "Leetcode.Maximum_Ice_Cream_Bars",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Longest_Common_Subsequence",
             "request": "launch",
             "mainClass": "Leetcode.Longest_Common_Subsequence",
