@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Zig_Zag_Arrays",
+            "request": "launch",
+            "mainClass": "Leetcode.Zig_Zag_Arrays",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Blank_Space_1829A",
+            "request": "launch",
+            "mainClass": "Blank_Space_1829A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Maximum_Number_Of_Balloons",
             "request": "launch",
             "mainClass": "Leetcode.Maximum_Number_Of_Balloons",
