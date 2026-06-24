@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Minimum_Insertion_Steps_To_Make_String_Palindrome",
+            "request": "launch",
+            "mainClass": "Leetcode.Minimum_Insertion_Steps_To_Make_String_Palindrome",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Common_Palindromic_Subsequence",
+            "request": "launch",
+            "mainClass": "DP.Longest_Common_Palindromic_Subsequence",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Coins_1814A",
+            "request": "launch",
+            "mainClass": "Coins_1814A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Zig_Zag_Arrays",
             "request": "launch",
             "mainClass": "Leetcode.Zig_Zag_Arrays",
