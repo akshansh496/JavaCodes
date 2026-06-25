@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Count_Subarrays_With_Majority_Element_One",
+            "request": "launch",
+            "mainClass": "Leetcode.Count_Subarrays_With_Majority_Element_One",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Walking_master",
+            "request": "launch",
+            "mainClass": "Walking_master",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Minimum_Insertion_Steps_To_Make_String_Palindrome",
             "request": "launch",
             "mainClass": "Leetcode.Minimum_Insertion_Steps_To_Make_String_Palindrome",
