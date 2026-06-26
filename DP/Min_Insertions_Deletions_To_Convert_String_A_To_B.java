@@ -1,6 +1,6 @@
 package DP;
 
-public class Min_Operations_To_Convert_String_A_To_B {
+public class Min_Insertions_Deletions_To_Convert_String_A_To_B {
     public static int longest_common_subsequence(String str1,String str2){
         int n=str1.length();
         int m=str2.length();

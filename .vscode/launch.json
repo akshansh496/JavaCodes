@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Min_Insertions_Deletions_To_Convert_String_A_To_B",
+            "request": "launch",
+            "mainClass": "DP.Min_Insertions_Deletions_To_Convert_String_A_To_B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Minimum_Operations_To_Transform_String",
             "request": "launch",
             "mainClass": "Leetcode.Minimum_Operations_To_Transform_String",
