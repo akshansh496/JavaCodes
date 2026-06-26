@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Minimum_Operations_To_Transform_String",
+            "request": "launch",
+            "mainClass": "Leetcode.Minimum_Operations_To_Transform_String",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Min_Operations_To_Convert_String_A_To_B",
+            "request": "launch",
+            "mainClass": "DP.Min_Operations_To_Convert_String_A_To_B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Count_Subarrays_With_Majority_Element_One",
             "request": "launch",
             "mainClass": "Leetcode.Count_Subarrays_With_Majority_Element_One",

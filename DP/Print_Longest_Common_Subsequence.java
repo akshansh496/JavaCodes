@@ -43,8 +43,8 @@ public class Print_Longest_Common_Subsequence {
     }
 
     public static void main(String[] args) {
-        String str1="cde";
-        String str2="ace";
+        String str1="abceded";
+        String str2="baecfef";
         System.out.println(tab(str1, str2));
     }
 }

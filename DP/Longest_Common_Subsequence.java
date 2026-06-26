@@ -41,8 +41,8 @@ public class Longest_Common_Subsequence {
         return dp[n][m];
     }
     public static void main(String[] args) {
-        String str1="abcde";
-        String str2="ace";
+        String str1="abceded";
+        String str2="baecfef";
         int n=str1.length();
         int m=str2.length();
         System.out.println(recursion(str1,str2,n,m));
