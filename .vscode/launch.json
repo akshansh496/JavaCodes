@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Shortest_Common_Supersequence",
+            "request": "launch",
+            "mainClass": "Leetcode.Shortest_Common_Supersequence",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Serval_And_Mocha_Array_1789A",
+            "request": "launch",
+            "mainClass": "Serval_And_Mocha_Array_1789A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Min_Insertions_Deletions_To_Convert_String_A_To_B",
             "request": "launch",
             "mainClass": "DP.Min_Insertions_Deletions_To_Convert_String_A_To_B",
