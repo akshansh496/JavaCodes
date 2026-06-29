@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Count_Of_matches_In_Tournament",
+            "request": "launch",
+            "mainClass": "Leetcode.Count_Of_matches_In_Tournament",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Extremely_Round_1766A",
+            "request": "launch",
+            "mainClass": "Extremely_Round_1766A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Shortest_Common_Supersequence",
             "request": "launch",
             "mainClass": "Leetcode.Shortest_Common_Supersequence",
