@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Number_Of_Substrings_Containing_All_Three_Characters",
+            "request": "launch",
+            "mainClass": "Leetcode.Number_Of_Substrings_Containing_All_Three_Characters",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Prepend_And_Append_1791C",
+            "request": "launch",
+            "mainClass": "Prepend_And_Append_1791C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Count_Of_matches_In_Tournament",
             "request": "launch",
             "mainClass": "Leetcode.Count_Of_matches_In_Tournament",
