@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "We_Need_the_Zero_1805A",
+            "request": "launch",
+            "mainClass": "We_Need_the_Zero_1805A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Find_Safe_Walk_Through_Grid",
+            "request": "launch",
+            "mainClass": "Leetcode.Find_Safe_Walk_Through_Grid",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Number_Of_Substrings_Containing_All_Three_Characters",
             "request": "launch",
             "mainClass": "Leetcode.Number_Of_Substrings_Containing_All_Three_Characters",
