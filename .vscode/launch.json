@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Distinct_Subsequences",
+            "request": "launch",
+            "mainClass": "Leetcode.Distinct_Subsequences",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Make_It_Beautiful_1783",
+            "request": "launch",
+            "mainClass": "Make_It_Beautiful_1783",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Network_Recovery_Pathways",
+            "request": "launch",
+            "mainClass": "Leetcode.Network_Recovery_Pathways",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "We_Need_the_Zero_1805A",
             "request": "launch",
             "mainClass": "We_Need_the_Zero_1805A",
