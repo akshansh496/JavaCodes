@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Number_Of_Paths_With_Max_Score",
+            "request": "launch",
+            "mainClass": "Leetcode.Number_Of_Paths_With_Max_Score",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Min_Score_Of_Path_Bw_Two_Cities",
             "request": "launch",
             "mainClass": "Leetcode.Min_Score_Of_Path_Bw_Two_Cities",
