@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Remove_Covered_Intervals",
+            "request": "launch",
+            "mainClass": "Leetcode.Remove_Covered_Intervals",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Chemistry_1883B",
+            "request": "launch",
+            "mainClass": "Chemistry_1883B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Number_Of_Paths_With_Max_Score",
             "request": "launch",
             "mainClass": "Leetcode.Number_Of_Paths_With_Max_Score",
