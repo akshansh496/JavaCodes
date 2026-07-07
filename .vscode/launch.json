@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sum_And_Multiply",
+            "request": "launch",
+            "mainClass": "Leetcode.Sum_And_Multiply",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "JellyFish_And_Undertale_1875A",
+            "request": "launch",
+            "mainClass": "JellyFish_And_Undertale_1875A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Remove_Covered_Intervals",
             "request": "launch",
             "mainClass": "Leetcode.Remove_Covered_Intervals",
