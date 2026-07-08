@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Concatenate_NonZero_Digits_Multiply_By_Sum",
+            "request": "launch",
+            "mainClass": "Leetcode.Concatenate_NonZero_Digits_Multiply_By_Sum",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Sum_And_Multiply",
             "request": "launch",
             "mainClass": "Leetcode.Sum_And_Multiply",
