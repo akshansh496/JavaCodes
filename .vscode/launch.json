@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Best_Time_To_Buy_Sell_Stocks_2",
+            "request": "launch",
+            "mainClass": "Leetcode.Best_Time_To_Buy_Sell_Stocks_2",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Concatenate_NonZero_Digits_Multiply_By_Sum",
             "request": "launch",
             "mainClass": "Leetcode.Concatenate_NonZero_Digits_Multiply_By_Sum",
