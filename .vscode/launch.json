@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Comparison_String_1837B",
+            "request": "launch",
+            "mainClass": "Comparison_String_1837B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Latest_Time_To_Catch_Bus",
+            "request": "launch",
+            "mainClass": "Leetcode.Latest_Time_To_Catch_Bus",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Check_If_Parentheses_String_Can_be_Valid",
             "request": "launch",
             "mainClass": "Leetcode.Check_If_Parentheses_String_Can_be_Valid",
