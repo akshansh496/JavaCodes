@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Best_Time_To_Buy_Sell_Stocks_3",
+            "request": "launch",
+            "mainClass": "Leetcode.Best_Time_To_Buy_Sell_Stocks_3",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Ezraft_And_Array",
+            "request": "launch",
+            "mainClass": "Ezraft_And_Array",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "FarmPiggie_And_Subset_Sum",
+            "request": "launch",
+            "mainClass": "FarmPiggie_And_Subset_Sum",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Permutation_Swap_1828B",
+            "request": "launch",
+            "mainClass": "Permutation_Swap_1828B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Rank_Transform_Of_Array",
+            "request": "launch",
+            "mainClass": "Leetcode.Rank_Transform_Of_Array",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Odd_Queries_1807D",
+            "request": "launch",
+            "mainClass": "Odd_Queries_1807D",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Comparison_String_1837B",
             "request": "launch",
             "mainClass": "Comparison_String_1837B",
