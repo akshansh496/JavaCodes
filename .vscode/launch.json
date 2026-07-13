@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Best_Time_To_Buy_Sell_Stocks_4",
+            "request": "launch",
+            "mainClass": "Leetcode.Best_Time_To_Buy_Sell_Stocks_4",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Not_Dividing_1749B",
+            "request": "launch",
+            "mainClass": "Not_Dividing_1749B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Sequential_Digits",
+            "request": "launch",
+            "mainClass": "Leetcode.Sequential_Digits",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Best_Time_To_Buy_Sell_Stocks_3",
             "request": "launch",
             "mainClass": "Leetcode.Best_Time_To_Buy_Sell_Stocks_3",
