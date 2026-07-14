@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Number_Of_Subsequences_With_Equal_GCD",
+            "request": "launch",
+            "mainClass": "Leetcode.Number_Of_Subsequences_With_Equal_GCD",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Iskander_And_Drawings_2244A",
+            "request": "launch",
+            "mainClass": "Iskander_And_Drawings_2244A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Best_Time_To_Buy_Sell_Stocks_4",
             "request": "launch",
             "mainClass": "Leetcode.Best_Time_To_Buy_Sell_Stocks_4",
