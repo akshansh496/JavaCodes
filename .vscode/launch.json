@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Mainak_And_Array_1726A",
+            "request": "launch",
+            "mainClass": "Mainak_And_Array_1726A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Number_Of_Subsequences_With_Equal_GCD",
             "request": "launch",
             "mainClass": "Leetcode.Number_Of_Subsequences_With_Equal_GCD",
