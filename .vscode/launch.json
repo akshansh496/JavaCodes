@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sum_Of_Gcd_Of_Formed_Pairs",
+            "request": "launch",
+            "mainClass": "Leetcode.Sum_Of_Gcd_Of_Formed_Pairs",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Mainak_And_Array_1726A",
             "request": "launch",
             "mainClass": "Mainak_And_Array_1726A",
