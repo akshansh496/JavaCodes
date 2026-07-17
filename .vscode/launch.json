@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Jump_Game",
+            "request": "launch",
+            "mainClass": "Flipkart_Grid_Practice.Jump_Game",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Sum_Of_Gcd_Of_Formed_Pairs",
             "request": "launch",
             "mainClass": "Leetcode.Sum_Of_Gcd_Of_Formed_Pairs",
