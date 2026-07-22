@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Split_Array_Largest_Sum",
+            "request": "launch",
+            "mainClass": "Flipkart_Grid_Practice.Split_Array_Largest_Sum",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Jump_Game",
             "request": "launch",
             "mainClass": "Flipkart_Grid_Practice.Jump_Game",
