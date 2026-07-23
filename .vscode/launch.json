@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Number_of_Zero_Filled_Subarrays",
+            "request": "launch",
+            "mainClass": "Leetcode.Number_of_Zero_Filled_Subarrays",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Query_Kth_smallest_Trimmed_Number",
+            "request": "launch",
+            "mainClass": "Leetcode.Query_Kth_smallest_Trimmed_Number",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Make_It_Increasing_1675B",
+            "request": "launch",
+            "mainClass": "Make_It_Increasing_1675B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "AvtoBus_1679A",
+            "request": "launch",
+            "mainClass": "AvtoBus_1679A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Split_Array_Largest_Sum",
             "request": "launch",
             "mainClass": "Flipkart_Grid_Practice.Split_Array_Largest_Sum",
