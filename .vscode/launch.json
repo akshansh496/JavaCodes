@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sort_The_Jumbled_Numbers",
+            "request": "launch",
+            "mainClass": "Leetcode.Sort_The_Jumbled_Numbers",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Deletive_Editing_1666D",
+            "request": "launch",
+            "mainClass": "Deletive_Editing_1666D",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Number_of_Zero_Filled_Subarrays",
             "request": "launch",
             "mainClass": "Leetcode.Number_of_Zero_Filled_Subarrays",
