@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Make_AP_1624B",
+            "request": "launch",
+            "mainClass": "Make_AP_1624B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Maximum_Product_of_Two_Digits",
+            "request": "launch",
+            "mainClass": "Leetcode.Maximum_Product_of_Two_Digits",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Sort_The_Jumbled_Numbers",
             "request": "launch",
             "mainClass": "Leetcode.Sort_The_Jumbled_Numbers",
