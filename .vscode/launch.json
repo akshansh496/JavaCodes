@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Maximum_Area_Rectangle_With_Point_Constraints",
+            "request": "launch",
+            "mainClass": "Leetcode.Maximum_Area_Rectangle_With_Point_Constraints",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Make_AP_1624B",
             "request": "launch",
             "mainClass": "Make_AP_1624B",
