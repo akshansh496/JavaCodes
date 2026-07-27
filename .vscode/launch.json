@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Set_Matrix_Zeroes",
+            "request": "launch",
+            "mainClass": "Leetcode.Set_Matrix_Zeroes",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Odd_Grasshopper_1607B",
+            "request": "launch",
+            "mainClass": "Odd_Grasshopper_1607B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Threshold_Movement_2250A",
             "request": "launch",
             "mainClass": "Threshold_Movement_2250A",
