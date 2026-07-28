@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AB_Balance_1606A",
+            "request": "launch",
+            "mainClass": "AB_Balance_1606A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Smallest_Palindromic_Rearrangement_1",
+            "request": "launch",
+            "mainClass": "Leetcode.Smallest_Palindromic_Rearrangement_1",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Best_Time_To_Buy_Sell_Stocks_With_Cooldown",
             "request": "launch",
             "mainClass": "Leetcode.Best_Time_To_Buy_Sell_Stocks_With_Cooldown",
