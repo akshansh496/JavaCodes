@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sort_Colors",
+            "request": "launch",
+            "mainClass": "Leetcode.Sort_Colors",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Make_It_Divisible_By_25_1593B",
+            "request": "launch",
+            "mainClass": "Make_It_Divisible_By_25_1593B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "AB_Balance_1606A",
             "request": "launch",
             "mainClass": "AB_Balance_1606A",
