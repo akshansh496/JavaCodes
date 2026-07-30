@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Luntik_And_Subsequences_1582B",
+            "request": "launch",
+            "mainClass": "Leetcode.Luntik_And_Subsequences_1582B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Number_Of_Pushses_To_Type_Word_1",
+            "request": "launch",
+            "mainClass": "Leetcode.Minimum_Number_Of_Pushses_To_Type_Word_1",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Sort_Colors",
             "request": "launch",
             "mainClass": "Leetcode.Sort_Colors",
