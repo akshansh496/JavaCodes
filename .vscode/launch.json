@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Number_Of_burgers_With_No_Waste_Of_Ingredients",
+            "request": "launch",
+            "mainClass": "Leetcode.Number_Of_burgers_With_No_Waste_Of_Ingredients",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Exciting_bets_1543A",
+            "request": "launch",
+            "mainClass": "Exciting_bets_1543A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Luntik_And_Subsequences_1582B",
             "request": "launch",
             "mainClass": "Leetcode.Luntik_And_Subsequences_1582B",
