@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Preditct_The_Winner",
+            "request": "launch",
+            "mainClass": "Leetcode.Preditct_The_Winner",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Number_Of_burgers_With_No_Waste_Of_Ingredients",
             "request": "launch",
             "mainClass": "Leetcode.Number_Of_burgers_With_No_Waste_Of_Ingredients",
