@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Next_Permutation",
+            "request": "launch",
+            "mainClass": "Leetcode.Next_Permutation",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Bad_Boy_1537B",
+            "request": "launch",
+            "mainClass": "Bad_Boy_1537B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Preditct_The_Winner",
             "request": "launch",
             "mainClass": "Leetcode.Preditct_The_Winner",
