@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Odd_Divisor_1475A",
+            "request": "launch",
+            "mainClass": "Odd_Divisor_1475A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Next_Permutation",
             "request": "launch",
             "mainClass": "Leetcode.Next_Permutation",
