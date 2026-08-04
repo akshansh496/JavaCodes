@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sum_Of_Medians_1440B",
+            "request": "launch",
+            "mainClass": "Sum_Of_Medians_1440B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Find_Missing_Elements",
+            "request": "launch",
+            "mainClass": "Leetcode.Find_Missing_Elements",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Odd_Divisor_1475A",
             "request": "launch",
             "mainClass": "Odd_Divisor_1475A",
