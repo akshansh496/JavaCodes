@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Single_Element_In_Sorted_Array",
+            "request": "launch",
+            "mainClass": "Leetcode.Single_Element_In_Sorted_Array",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Smallest_Divisble_Digit_Product_1",
+            "request": "launch",
+            "mainClass": "Leetcode.Smallest_Divisble_Digit_Product_1",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Permutation_Sequence",
             "request": "launch",
             "mainClass": "Leetcode.Permutation_Sequence",
