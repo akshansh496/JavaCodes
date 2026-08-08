@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reverse_Words_In_String",
+            "request": "launch",
+            "mainClass": "Leetcode.Reverse_Words_In_String",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Multiply_By_2_Divide_by_6",
+            "request": "launch",
+            "mainClass": "Multiply_By_2_Divide_by_6",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Single_Element_In_Sorted_Array",
             "request": "launch",
             "mainClass": "Leetcode.Single_Element_In_Sorted_Array",
