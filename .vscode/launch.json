@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "String_To_Integer_Atoi",
+            "request": "launch",
+            "mainClass": "Leetcode.String_To_Integer_Atoi",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Best_time_To_Buy_And_Sell_Stock_With_Fee_Transaction",
+            "request": "launch",
+            "mainClass": "Leetcode.Best_time_To_Buy_And_Sell_Stock_With_Fee_Transaction",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Reverse_Words_In_String",
             "request": "launch",
             "mainClass": "Leetcode.Reverse_Words_In_String",
