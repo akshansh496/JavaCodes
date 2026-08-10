@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Swap_And_Delete_1913B",
+            "request": "launch",
+            "mainClass": "Swap_And_Delete_1913B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Compare_Version_Numbers",
+            "request": "launch",
+            "mainClass": "Leetcode.Compare_Version_Numbers",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "String_To_Integer_Atoi",
             "request": "launch",
             "mainClass": "Leetcode.String_To_Integer_Atoi",
