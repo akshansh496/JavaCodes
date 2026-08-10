@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Longest_Increasing_Subsequnece",
+            "request": "launch",
+            "mainClass": "Leetcode.Longest_Increasing_Subsequnece",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Swap_And_Delete_1913B",
             "request": "launch",
             "mainClass": "Swap_And_Delete_1913B",
