@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Helmets_in_Light_night_1876A",
+            "request": "launch",
+            "mainClass": "Helmets_in_Light_night_1876A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum",
+            "request": "launch",
+            "mainClass": "Leetcode.Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Longest_Increasing_Subsequnece",
             "request": "launch",
             "mainClass": "Leetcode.Longest_Increasing_Subsequnece",
