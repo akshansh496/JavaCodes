@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Monsters_1849B",
+            "request": "launch",
+            "mainClass": "Monsters_1849B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Largest_Divisible_Subset",
+            "request": "launch",
+            "mainClass": "Leetcode.Largest_Divisible_Subset",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Helmets_in_Light_night_1876A",
             "request": "launch",
             "mainClass": "Helmets_in_Light_night_1876A",
