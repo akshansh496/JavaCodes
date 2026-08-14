@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Maximum_Length_Substring_With_Two_Occurences",
+            "request": "launch",
+            "mainClass": "Leetcode.Maximum_Length_Substring_With_Two_Occurences",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Ski_Resort_1840C",
+            "request": "launch",
+            "mainClass": "Ski_Resort_1840C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Monsters_1849B",
             "request": "launch",
             "mainClass": "Monsters_1849B",
