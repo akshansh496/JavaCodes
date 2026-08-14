@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Longest_String_Chain",
+            "request": "launch",
+            "mainClass": "Leetcode.Longest_String_Chain",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Maximum_Length_Substring_With_Two_Occurences",
             "request": "launch",
             "mainClass": "Leetcode.Maximum_Length_Substring_With_Two_Occurences",
