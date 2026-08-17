@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Minimum_LCM_1765M",
+            "request": "launch",
+            "mainClass": "Minimum_LCM_1765M",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Palindrome",
+            "request": "launch",
+            "mainClass": "Leetcode.Longest_Palindrome",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Distinct_Split_1791D",
+            "request": "launch",
+            "mainClass": "Distinct_Split_1791D",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Longest_String_Chain",
             "request": "launch",
             "mainClass": "Leetcode.Longest_String_Chain",
