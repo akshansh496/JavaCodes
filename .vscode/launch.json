@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Traffic_Light_1744C",
+            "request": "launch",
+            "mainClass": "Traffic_Light_1744C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Minimum_LCM_1765M",
             "request": "launch",
             "mainClass": "Minimum_LCM_1765M",
