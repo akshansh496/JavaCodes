@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BasketBall_Together_1725B",
+            "request": "launch",
+            "mainClass": "BasketBall_Together_1725B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Cinema_Seat_Allocation",
+            "request": "launch",
+            "mainClass": "Leetcode.Cinema_Seat_Allocation",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Traffic_Light_1744C",
             "request": "launch",
             "mainClass": "Traffic_Light_1744C",
