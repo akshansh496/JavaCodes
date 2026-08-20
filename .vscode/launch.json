@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Distribute_Elements_into_Two_Arrays_1",
+            "request": "launch",
+            "mainClass": "Leetcode.Distribute_Elements_into_Two_Arrays_1",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Luke_Is_A_Foodie_1704B",
+            "request": "launch",
+            "mainClass": "Luke_Is_A_Foodie_1704B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "BasketBall_Together_1725B",
             "request": "launch",
             "mainClass": "BasketBall_Together_1725B",
