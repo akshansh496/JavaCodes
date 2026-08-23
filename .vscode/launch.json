@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Forked_1904A",
+            "request": "launch",
+            "mainClass": "Forked_1904A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Sum_Game",
+            "request": "launch",
+            "mainClass": "Leetcode.Sum_Game",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Check_Divisibilty_By_Digit_Sum_And_Product",
+            "request": "launch",
+            "mainClass": "Leetcode.Check_Divisibilty_By_Digit_Sum_And_Product",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Distribute_Elements_into_Two_Arrays_1",
             "request": "launch",
             "mainClass": "Leetcode.Distribute_Elements_into_Two_Arrays_1",
