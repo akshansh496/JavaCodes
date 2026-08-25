@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Strange_partition_1471A",
+            "request": "launch",
+            "mainClass": "Strange_partition_1471A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Beautiful_Year_271A",
+            "request": "launch",
+            "mainClass": "Beautiful_Year_271A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Borze_32B",
+            "request": "launch",
+            "mainClass": "Borze_32B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Queue_At_The_School_266B",
+            "request": "launch",
+            "mainClass": "Queue_At_The_School_266B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Forked_1904A",
             "request": "launch",
             "mainClass": "Forked_1904A",
