@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Maximal_Score_After_Applying_K_Operations",
+            "request": "launch",
+            "mainClass": "Leetcode.Maximal_Score_After_Applying_K_Operations",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Minimum_Window_Substring",
             "request": "launch",
             "mainClass": "Leetcode.Minimum_Window_Substring",
