@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Minimum_Window_Substring",
+            "request": "launch",
+            "mainClass": "Leetcode.Minimum_Window_Substring",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Strange_partition_1471A",
             "request": "launch",
             "mainClass": "Strange_partition_1471A",
