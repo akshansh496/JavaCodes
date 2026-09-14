@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Zero_One_Game_1373B",
+            "request": "launch",
+            "mainClass": "Zero_One_Game_1373B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "LFU_Cache",
             "request": "launch",
             "mainClass": "Leetcode.LFU_Cache",
