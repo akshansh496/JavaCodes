@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LFU_Cache",
+            "request": "launch",
+            "mainClass": "Leetcode.LFU_Cache",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Min_Matrices_2263B",
+            "request": "launch",
+            "mainClass": "Min_Matrices_2263B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Maximal_Score_After_Applying_K_Operations",
             "request": "launch",
             "mainClass": "Leetcode.Maximal_Score_After_Applying_K_Operations",
