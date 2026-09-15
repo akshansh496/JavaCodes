@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Divan_And_New_Project_1614B",
+            "request": "launch",
+            "mainClass": "Divan_And_New_Project_1614B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Add_And_Divide_1485A",
+            "request": "launch",
+            "mainClass": "Add_And_Divide_1485A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Task_Scheduler",
+            "request": "launch",
+            "mainClass": "Leetcode.Task_Scheduler",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Zero_One_Game_1373B",
             "request": "launch",
             "mainClass": "Zero_One_Game_1373B",
