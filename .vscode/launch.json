@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Double_Ended_Strings_1506B",
+            "request": "launch",
+            "mainClass": "Double_Ended_Strings_1506B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "DOuble_Ended_Strings_1506B",
+            "request": "launch",
+            "mainClass": "DOuble_Ended_Strings_1506B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Lowest_Common_Ancestor_Of_Binary_Tree",
+            "request": "launch",
+            "mainClass": "Leetcode.Lowest_Common_Ancestor_Of_Binary_Tree",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Tree_Max_Path_Sum",
+            "request": "launch",
+            "mainClass": "Leetcode.Binary_Tree_Max_Path_Sum",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Diameter_Of_binary_Tree",
+            "request": "launch",
+            "mainClass": "Leetcode.Diameter_Of_binary_Tree",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Divan_And_New_Project_1614B",
             "request": "launch",
             "mainClass": "Divan_And_New_Project_1614B",
