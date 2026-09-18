@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Valerii_Against_Everyone_1438B",
+            "request": "launch",
+            "mainClass": "Valerii_Against_Everyone_1438B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Find_Players_With_Zero_or_One_losses",
+            "request": "launch",
+            "mainClass": "Leetcode.Find_Players_With_Zero_or_One_losses",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Time_Needed_To_Inform_All_Employees",
+            "request": "launch",
+            "mainClass": "Leetcode.Time_Needed_To_Inform_All_Employees",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Numbers_Box_1447B",
             "request": "launch",
             "mainClass": "Numbers_Box_1447B",
