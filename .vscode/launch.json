@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Numbers_Box_1447B",
+            "request": "launch",
+            "mainClass": "Numbers_Box_1447B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Different_Divisors_1474B",
+            "request": "launch",
+            "mainClass": "Different_Divisors_1474B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Longest_univalue_Path",
+            "request": "launch",
+            "mainClass": "Leetcode.Longest_univalue_Path",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Sum_Root_To_leaf_numbers",
+            "request": "launch",
+            "mainClass": "Leetcode.Sum_Root_To_leaf_numbers",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Path_Sum",
+            "request": "launch",
+            "mainClass": "Leetcode.Path_Sum",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Double_Ended_Strings_1506B",
             "request": "launch",
             "mainClass": "Double_Ended_Strings_1506B",
