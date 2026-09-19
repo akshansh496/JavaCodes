@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fair_Numbers_1411b",
+            "request": "launch",
+            "mainClass": "Fair_Numbers_1411b",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Valerii_Against_Everyone_1438B",
             "request": "launch",
             "mainClass": "Valerii_Against_Everyone_1438B",
