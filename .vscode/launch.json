@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Same_Tree",
+            "request": "launch",
+            "mainClass": "Leetcode.Same_Tree",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Fair_Numbers_1411b",
             "request": "launch",
             "mainClass": "Fair_Numbers_1411b",
