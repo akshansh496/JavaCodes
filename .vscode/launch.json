@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Non_Overlapping_intervals",
+            "request": "launch",
+            "mainClass": "Leetcode.Non_Overlapping_intervals",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Same_Tree",
             "request": "launch",
             "mainClass": "Leetcode.Same_Tree",
