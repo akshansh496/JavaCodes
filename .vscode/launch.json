@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Move_Brackets_1374C",
+            "request": "launch",
+            "mainClass": "Move_Brackets_1374C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Non_Overlapping_intervals",
             "request": "launch",
             "mainClass": "Leetcode.Non_Overlapping_intervals",
