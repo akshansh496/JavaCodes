@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Johnny_And_Ancient_Computer_1362A",
+            "request": "launch",
+            "mainClass": "Johnny_And_Ancient_Computer_1362A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Recover_Binary_Search_Tree",
             "request": "launch",
             "mainClass": "Recover_Binary_Search_Tree",
