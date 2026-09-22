@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Recover_Binary_Search_Tree",
+            "request": "launch",
+            "mainClass": "Recover_Binary_Search_Tree",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "And_Or_Sort_2266C",
+            "request": "launch",
+            "mainClass": "And_Or_Sort_2266C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Three_Piles_2266B",
+            "request": "launch",
+            "mainClass": "Three_Piles_2266B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Good_Contest_2266",
+            "request": "launch",
+            "mainClass": "Good_Contest_2266",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Construct_BT_From_PreOrder_Inorder_Traversal",
+            "request": "launch",
+            "mainClass": "Leetcode.Construct_BT_From_PreOrder_Inorder_Traversal",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Move_Brackets_1374C",
             "request": "launch",
             "mainClass": "Move_Brackets_1374C",
