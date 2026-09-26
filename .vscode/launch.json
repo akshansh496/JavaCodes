@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Vertical_Order_Traversal_of_Binary_Tree",
+            "request": "launch",
+            "mainClass": "Leetcode.Vertical_Order_Traversal_of_Binary_Tree",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Collecting_Game_1904B",
             "request": "launch",
             "mainClass": "Collecting_Game_1904B",
