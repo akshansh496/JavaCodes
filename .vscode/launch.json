@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "K_Is_important_2269C",
+            "request": "launch",
+            "mainClass": "K_Is_important_2269C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "SauSage_Bank_2269A",
+            "request": "launch",
+            "mainClass": "SauSage_Bank_2269A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Amount_Of_Time_For_Binary_Tree_To_Be_Infected",
+            "request": "launch",
+            "mainClass": "Leetcode.Amount_Of_Time_For_Binary_Tree_To_Be_Infected",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Vertical_Order_Traversal_of_Binary_Tree",
             "request": "launch",
             "mainClass": "Leetcode.Vertical_Order_Traversal_of_Binary_Tree",
