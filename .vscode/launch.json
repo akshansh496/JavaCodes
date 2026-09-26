@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fashionable_Array_2267B",
+            "request": "launch",
+            "mainClass": "Fashionable_Array_2267B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Turn_Into_Palindrome_2267A",
+            "request": "launch",
+            "mainClass": "Turn_Into_Palindrome_2267A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Raspberries_1833C",
+            "request": "launch",
+            "mainClass": "Raspberries_1833C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "BogoSort_1312B",
+            "request": "launch",
+            "mainClass": "BogoSort_1312B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Johnny_And_Ancient_Computer_1362A",
             "request": "launch",
             "mainClass": "Johnny_And_Ancient_Computer_1362A",
