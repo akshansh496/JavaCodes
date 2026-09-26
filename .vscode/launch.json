@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Collecting_Game_1904B",
+            "request": "launch",
+            "mainClass": "Collecting_Game_1904B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Erase_First_Or_Second_Letter_1917B",
+            "request": "launch",
+            "mainClass": "Erase_First_Or_Second_Letter_1917B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Fashionable_Array_2267B",
             "request": "launch",
             "mainClass": "Fashionable_Array_2267B",
