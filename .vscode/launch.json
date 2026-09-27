@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Serialise_And_Deserialise_BT",
+            "request": "launch",
+            "mainClass": "Leetcode.Serialise_And_Deserialise_BT",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "DejaVu_1891B",
+            "request": "launch",
+            "mainClass": "DejaVu_1891B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Two_Fifty_Thousand_Tons_Of_TNT_1899B",
+            "request": "launch",
+            "mainClass": "Two_Fifty_Thousand_Tons_Of_TNT_1899B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Yarik_And_Array_1899C",
+            "request": "launch",
+            "mainClass": "Yarik_And_Array_1899C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "K_Is_important_2269C",
             "request": "launch",
             "mainClass": "K_Is_important_2269C",
