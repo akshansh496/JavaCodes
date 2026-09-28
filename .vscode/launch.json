@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Word_Search",
+            "request": "launch",
+            "mainClass": "Leetcode.Word_Search",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Maximum_Sum_1832B",
+            "request": "launch",
+            "mainClass": "Maximum_Sum_1832B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "CardBoard_For_Pictures_1850E",
+            "request": "launch",
+            "mainClass": "CardBoard_For_Pictures_1850E",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Two_D_Travelling_1869B",
+            "request": "launch",
+            "mainClass": "Two_D_Travelling_1869B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Building_An_Aquarium_1873E",
+            "request": "launch",
+            "mainClass": "Building_An_Aquarium_1873E",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Serialise_And_Deserialise_BT",
             "request": "launch",
             "mainClass": "Leetcode.Serialise_And_Deserialise_BT",
