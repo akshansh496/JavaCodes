@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sort_The_Subarray_1821B",
+            "request": "launch",
+            "mainClass": "Sort_The_Subarray_1821B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Lunatic_never_Content_1826B",
+            "request": "launch",
+            "mainClass": "Lunatic_never_Content_1826B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Counting_Orders_1827A",
+            "request": "launch",
+            "mainClass": "Counting_Orders_1827A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Word_Search",
             "request": "launch",
             "mainClass": "Leetcode.Word_Search",
