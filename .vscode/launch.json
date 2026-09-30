@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Top_K_Frequent_Elements",
+            "request": "launch",
+            "mainClass": "Leetcode.Top_K_Frequent_Elements",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Jojo_Incredible_Adventure_1820B",
+            "request": "launch",
+            "mainClass": "Jojo_Incredible_Adventure_1820B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Sort_The_Subarray_1821B",
             "request": "launch",
             "mainClass": "Sort_The_Subarray_1821B",
