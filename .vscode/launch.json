@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Li_Hua_And_Pattern_1797B",
+            "request": "launch",
+            "mainClass": "Li_Hua_And_Pattern_1797B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Subsequence_Addition_1807G1",
+            "request": "launch",
+            "mainClass": "Subsequence_Addition_1807G1",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Top_K_Frequent_Elements",
             "request": "launch",
             "mainClass": "Leetcode.Top_K_Frequent_Elements",
