@@ -1,11 +1,72 @@
 
-import java.util.*;
+import java.io.IOException;
+import java.io.InputStream;
 
 public class Li_Hua_And_Pattern_1797B {
 
-    public static void main(String[] args) {
+    static class FastScanner {
 
-        Scanner sc = new Scanner(System.in);
+        private final InputStream in = System.in;
+        private final byte[] buffer = new byte[1 << 16];
+        private int ptr = 0, len = 0;
+
+        private int read() throws IOException {
+            if (ptr >= len) {
+                len = in.read(buffer);
+                ptr = 0;
+                if (len <= 0) {
+                    return -1;
+                }
+            }
+            return buffer[ptr++];
+        }
+
+        // Read next token as String
+        String next() throws IOException {
+            int c;
+
+            do {
+                c = read();
+            } while (c <= ' ');
+
+            StringBuilder sb = new StringBuilder();
+
+            while (c > ' ') {
+                sb.append((char) c);
+                c = read();
+            }
+
+            return sb.toString();
+        }
+
+        // Read int
+        int nextInt() throws IOException {
+            return Integer.parseInt(next());
+        }
+
+        // Read long
+        long nextLong() throws IOException {
+            return Long.parseLong(next());
+        }
+
+        // Read double
+        double nextDouble() throws IOException {
+            return Double.parseDouble(next());
+        }
+
+        // Read float
+        float nextFloat() throws IOException {
+            return Float.parseFloat(next());
+        }
+
+        // Read character
+        char nextChar() throws IOException {
+            return next().charAt(0);
+        }
+    }
+
+    public static void main(String[] args) throws Exception {
+        FastScanner sc = new FastScanner();
         int t = sc.nextInt();
 
         while (t-- > 0) {

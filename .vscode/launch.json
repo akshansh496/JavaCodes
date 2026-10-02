@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Negatives_And_Positives_1791E",
+            "request": "launch",
+            "mainClass": "Negatives_And_Positives_1791E",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Teleporters_1791G1",
+            "request": "launch",
+            "mainClass": "Teleporters_1791G1",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Maximum_Nesting_Depth_of_Two_Valid_Parantheses_Strings",
+            "request": "launch",
+            "mainClass": "Leetcode.Maximum_Nesting_Depth_of_Two_Valid_Parantheses_Strings",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Li_Hua_And_Pattern_1797B",
             "request": "launch",
             "mainClass": "Li_Hua_And_Pattern_1797B",
