@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "A_Perfectly_Balanced_String_1673B",
+            "request": "launch",
+            "mainClass": "A_Perfectly_Balanced_String_1673B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "AND_Sorting_1682B",
+            "request": "launch",
+            "mainClass": "AND_Sorting_1682B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "DIfference_Of_GCDs_1708B",
+            "request": "launch",
+            "mainClass": "DIfference_Of_GCDs_1708B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Valid_Parenthesis_String",
+            "request": "launch",
+            "mainClass": "Leetcode.Valid_Parenthesis_String",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Kill_DemoDogs_1731B",
+            "request": "launch",
+            "mainClass": "Kill_DemoDogs_1731B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Coprime_1742D",
+            "request": "launch",
+            "mainClass": "Coprime_1742D",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Negatives_And_Positives_1791E",
             "request": "launch",
             "mainClass": "Negatives_And_Positives_1791E",
