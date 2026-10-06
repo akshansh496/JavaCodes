@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Paint_the_Array_1618C",
+            "request": "launch",
+            "mainClass": "Paint_the_Array_1618C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Eating_Candies_1669F",
+            "request": "launch",
+            "mainClass": "Eating_Candies_1669F",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "A_Perfectly_Balanced_String_1673B",
             "request": "launch",
             "mainClass": "A_Perfectly_Balanced_String_1673B",
