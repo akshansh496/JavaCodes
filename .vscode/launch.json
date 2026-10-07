@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Count_Number_Of_Nice_Subarrays",
+            "request": "launch",
+            "mainClass": "Leetcode.Count_Number_Of_Nice_Subarrays",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Maximize_Sum_Of_Atmost_K_Distinct_elements",
+            "request": "launch",
+            "mainClass": "Leetcode.Maximize_Sum_Of_Atmost_K_Distinct_elements",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Make_Almost_Equal_With_Mod_1909B",
+            "request": "launch",
+            "mainClass": "Make_Almost_Equal_With_Mod_1909B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Three_Activities_1914D",
+            "request": "launch",
+            "mainClass": "Three_Activities_1914D",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Yet_Another_Card_Deck_1511C",
+            "request": "launch",
+            "mainClass": "Yet_Another_Card_Deck_1511C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Kalindrome_Array_1610B",
+            "request": "launch",
+            "mainClass": "Kalindrome_Array_1610B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Find_Pivot_index",
+            "request": "launch",
+            "mainClass": "Leetcode.Find_Pivot_index",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Paint_the_Array_1618C",
             "request": "launch",
             "mainClass": "Paint_the_Array_1618C",
