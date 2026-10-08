@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stone_Game_2",
+            "request": "launch",
+            "mainClass": "Leetcode.Stone_Game_2",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Ollya_And_Game_With_Arrays_1859B",
+            "request": "launch",
+            "mainClass": "Ollya_And_Game_With_Arrays_1859B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Unrequited_love_2275C",
+            "request": "launch",
+            "mainClass": "Unrequited_love_2275C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Did_Not_Go_To_Pront_2275B",
+            "request": "launch",
+            "mainClass": "Did_Not_Go_To_Pront_2275B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "In_Search_Of_Convenience_2275A",
+            "request": "launch",
+            "mainClass": "In_Search_Of_Convenience_2275A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Count_Number_Of_Nice_Subarrays",
             "request": "launch",
             "mainClass": "Leetcode.Count_Number_Of_Nice_Subarrays",
