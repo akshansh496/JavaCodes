@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Minimum_Insertions_To_Balance_Parantheses_String",
+            "request": "launch",
+            "mainClass": "Leetcode.Minimum_Insertions_To_Balance_Parantheses_String",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Stone_Game_2",
             "request": "launch",
             "mainClass": "Leetcode.Stone_Game_2",
