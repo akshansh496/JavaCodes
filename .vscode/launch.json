@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MEX_Game_2271B",
+            "request": "launch",
+            "mainClass": "MEX_Game_2271B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Robot_Odd_Moves_2271A",
+            "request": "launch",
+            "mainClass": "Robot_Odd_Moves_2271A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Sum_Of_Squarred_Differences",
+            "request": "launch",
+            "mainClass": "Leetcode.Minimum_Sum_Of_Squarred_Differences",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Shoe_Shuffling_1891B",
+            "request": "launch",
+            "mainClass": "Shoe_Shuffling_1891B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Beautiful_Array_1715B",
+            "request": "launch",
+            "mainClass": "Beautiful_Array_1715B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Minimum_Insertions_To_Balance_Parantheses_String",
             "request": "launch",
             "mainClass": "Leetcode.Minimum_Insertions_To_Balance_Parantheses_String",
