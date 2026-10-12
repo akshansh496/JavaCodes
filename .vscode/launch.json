@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Three_Numbers_On_The_BlackBoard_2256A",
+            "request": "launch",
+            "mainClass": "Three_Numbers_On_The_BlackBoard_2256A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "MEX_Game_2271B",
             "request": "launch",
             "mainClass": "MEX_Game_2271B",
