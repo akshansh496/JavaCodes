@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Buying_Torches_1418A",
+            "request": "launch",
+            "mainClass": "Buying_Torches_1418A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Maximum_Alternating_Sum_Of_Squares",
+            "request": "launch",
+            "mainClass": "Leetcode.Maximum_Alternating_Sum_Of_Squares",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Three_Numbers_On_The_BlackBoard_2256A",
             "request": "launch",
             "mainClass": "Three_Numbers_On_The_BlackBoard_2256A",
