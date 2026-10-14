@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Subarrays_2276C",
+            "request": "launch",
+            "mainClass": "Subarrays_2276C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Replace_And_Compress_2276B",
+            "request": "launch",
+            "mainClass": "Replace_And_Compress_2276B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Perfect_Sandwiches_2276A",
+            "request": "launch",
+            "mainClass": "Perfect_Sandwiches_2276A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Fun_With_Even_Arrays_1631B",
+            "request": "launch",
+            "mainClass": "Fun_With_Even_Arrays_1631B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_Substring_1155A",
+            "request": "launch",
+            "mainClass": "Reverse_Substring_1155A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Buying_Torches_1418A",
             "request": "launch",
             "mainClass": "Buying_Torches_1418A",
