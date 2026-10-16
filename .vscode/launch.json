@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Longest_Substring_Without_Repeating_Charcaters",
+            "request": "launch",
+            "mainClass": "Leetcode.Longest_Substring_Without_Repeating_Charcaters",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Riptide_2254A",
+            "request": "launch",
+            "mainClass": "Riptide_2254A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Subarrays_2276C",
             "request": "launch",
             "mainClass": "Subarrays_2276C",
