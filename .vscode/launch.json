@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Capital_Of_France_2261B",
+            "request": "launch",
+            "mainClass": "Capital_Of_France_2261B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "SouvlaKity_2261A",
+            "request": "launch",
+            "mainClass": "SouvlaKity_2261A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Longest_Substring_Without_Repeating_Charcaters",
             "request": "launch",
             "mainClass": "Leetcode.Longest_Substring_Without_Repeating_Charcaters",
