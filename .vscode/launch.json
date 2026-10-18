@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Jzzhu_And_Children",
+            "request": "launch",
+            "mainClass": "Jzzhu_And_Children",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Capital_Of_France_2261B",
             "request": "launch",
             "mainClass": "Capital_Of_France_2261B",
