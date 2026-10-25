@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Zero_One_Matrix",
+            "request": "launch",
+            "mainClass": "Leetcode.Zero_One_Matrix",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Vika_And_The_Bridge_1848B",
+            "request": "launch",
+            "mainClass": "Vika_And_The_Bridge_1848B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Assembly_Via_Minimums_1857C",
+            "request": "launch",
+            "mainClass": "Assembly_Via_Minimums_1857C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Subset_Selecting_2277A",
+            "request": "launch",
+            "mainClass": "Subset_Selecting_2277A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Predominant_Frequency_Division_2242B",
+            "request": "launch",
+            "mainClass": "Predominant_Frequency_Division_2242B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Subtract_Operations_1656B",
+            "request": "launch",
+            "mainClass": "Subtract_Operations_1656B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Jzzhu_And_Children",
             "request": "launch",
             "mainClass": "Jzzhu_And_Children",
