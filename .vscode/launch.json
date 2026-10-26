@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Playing_In_A_Casion_1808B",
+            "request": "launch",
+            "mainClass": "Playing_In_A_Casion_1808B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Count_Islands_With_Total_Value_Divisible_By_K",
+            "request": "launch",
+            "mainClass": "Leetcode.Count_Islands_With_Total_Value_Divisible_By_K",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Contrast_Value_1832C",
+            "request": "launch",
+            "mainClass": "Contrast_Value_1832C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Zero_One_Matrix",
             "request": "launch",
             "mainClass": "Leetcode.Zero_One_Matrix",
