@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Dora_And_Search_1793C",
+            "request": "launch",
+            "mainClass": "Dora_And_Search_1793C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Create_Grid_With_Exactly_One_Path",
+            "request": "launch",
+            "mainClass": "Leetcode.Create_Grid_With_Exactly_One_Path",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Playing_In_A_Casion_1808B",
             "request": "launch",
             "mainClass": "Playing_In_A_Casion_1808B",
