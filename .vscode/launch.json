@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SuperCentralPoint_165A",
+            "request": "launch",
+            "mainClass": "SuperCentralPoint_165A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Calculate_Digit_Sum_Of_String",
+            "request": "launch",
+            "mainClass": "Leetcode.Calculate_Digit_Sum_Of_String",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Dora_And_Search_1793C",
             "request": "launch",
             "mainClass": "Dora_And_Search_1793C",
