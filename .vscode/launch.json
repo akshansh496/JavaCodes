@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Clone_Graph",
+            "request": "launch",
+            "mainClass": "Leetcode.Clone_Graph",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Reconnaissance_34A",
+            "request": "launch",
+            "mainClass": "Reconnaissance_34A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Petr_And_Book_139A",
+            "request": "launch",
+            "mainClass": "Petr_And_Book_139A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "SuperCentralPoint_165A",
             "request": "launch",
             "mainClass": "SuperCentralPoint_165A",
