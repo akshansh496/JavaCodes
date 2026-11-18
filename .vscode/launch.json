@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Airport_218B",
+            "request": "launch",
+            "mainClass": "Airport_218B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Little_Elphant_And_Rozdil_205A",
+            "request": "launch",
+            "mainClass": "Little_Elphant_And_Rozdil_205A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Even_Odd_318A",
+            "request": "launch",
+            "mainClass": "Even_Odd_318A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Number_Of_Changes_To_Make_String_Beautiful",
+            "request": "launch",
+            "mainClass": "Leetcode.Minimum_Number_Of_Changes_To_Make_String_Beautiful",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Clone_Graph",
             "request": "launch",
             "mainClass": "Leetcode.Clone_Graph",
