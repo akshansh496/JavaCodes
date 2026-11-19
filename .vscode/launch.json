@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Dragons_230A",
+            "request": "launch",
+            "mainClass": "Dragons_230A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Puzzles_337A",
+            "request": "launch",
+            "mainClass": "Puzzles_337A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Minimize_Sum",
+            "request": "launch",
+            "mainClass": "Leetcode.Minimize_Sum",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Airport_218B",
             "request": "launch",
             "mainClass": "Airport_218B",
