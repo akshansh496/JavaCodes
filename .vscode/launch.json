@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Jeff_And_Periods_352B",
+            "request": "launch",
+            "mainClass": "Jeff_And_Periods_352B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Pashmak_And_Flowers_459B",
+            "request": "launch",
+            "mainClass": "Pashmak_And_Flowers_459B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Dragons_230A",
             "request": "launch",
             "mainClass": "Dragons_230A",
