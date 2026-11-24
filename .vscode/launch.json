@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Kita3ara_Haruki_Gift_433A",
+            "request": "launch",
+            "mainClass": "Kita3ara_Haruki_Gift_433A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Jeff_And_Digits_352A",
+            "request": "launch",
+            "mainClass": "Jeff_And_Digits_352A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Word_Ladder",
+            "request": "launch",
+            "mainClass": "Leetcode.Word_Ladder",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Hexadecimal_Theorem_199A",
+            "request": "launch",
+            "mainClass": "Hexadecimal_Theorem_199A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Letter_43B",
             "request": "launch",
             "mainClass": "Letter_43B",
