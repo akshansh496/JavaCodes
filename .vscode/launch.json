@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Letter_43B",
+            "request": "launch",
+            "mainClass": "Letter_43B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Product_Of_Numbers",
+            "request": "launch",
+            "mainClass": "Leetcode.Product_Of_Numbers",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Number_Of_Enclaves",
+            "request": "launch",
+            "mainClass": "Leetcode.Number_Of_Enclaves",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Number_Of_Provinces",
+            "request": "launch",
+            "mainClass": "Leetcode.Number_Of_Provinces",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Shower_Line_431B",
+            "request": "launch",
+            "mainClass": "Shower_Line_431B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Sail_298B",
+            "request": "launch",
+            "mainClass": "Sail_298B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Little_Girl_And_Game_276B",
+            "request": "launch",
+            "mainClass": "Little_Girl_And_Game_276B",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Jeff_And_Periods_352B",
             "request": "launch",
             "mainClass": "Jeff_And_Periods_352B",
