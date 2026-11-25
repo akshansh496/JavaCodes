@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Word_Ladder_2",
+            "request": "launch",
+            "mainClass": "Leetcode.Word_Ladder_2",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Shortest_Path_In_Binary_Matrix",
+            "request": "launch",
+            "mainClass": "Leetcode.Shortest_Path_In_Binary_Matrix",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Comparing_Strings_186A",
+            "request": "launch",
+            "mainClass": "Comparing_Strings_186A",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Kita3ara_Haruki_Gift_433A",
             "request": "launch",
             "mainClass": "Kita3ara_Haruki_Gift_433A",
