@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Scuza_1742E",
+            "request": "launch",
+            "mainClass": "Scuza_1742E",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Number_Of_Ways_To_Arrive_At_Position",
+            "request": "launch",
+            "mainClass": "Leetcode.Number_Of_Ways_To_Arrive_At_Position",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Stone_Removal_Game",
+            "request": "launch",
+            "mainClass": "Leetcode.Stone_Removal_Game",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Word_Ladder_2",
             "request": "launch",
             "mainClass": "Leetcode.Word_Ladder_2",
