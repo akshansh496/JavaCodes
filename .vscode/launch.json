@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Swim_In_Rising_Water",
+            "request": "launch",
+            "mainClass": "Leetcode.Swim_In_Rising_Water",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
+            "name": "Removing_Smallest_Multiples_1734C",
+            "request": "launch",
+            "mainClass": "Removing_Smallest_Multiples_1734C",
+            "projectName": "JavaCodes_7c8235fa"
+        },
+        {
+            "type": "java",
             "name": "Scuza_1742E",
             "request": "launch",
             "mainClass": "Scuza_1742E",
